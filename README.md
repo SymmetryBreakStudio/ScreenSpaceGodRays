@@ -4,4 +4,4 @@
 This is the public issue tracker and wiki for the Screen Space God Rays asset.
 
 * [Get it on itch.io](https://symmetrybreak.itch.io/ssgr-demo)
-* Get it on Unity Asset Store. (coming soon)
+* [Get it on Unity Asset Store](https://u3d.as/3cqA)
